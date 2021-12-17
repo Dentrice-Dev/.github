@@ -30,13 +30,13 @@ Looking forward to new adventures and creating awsome experiences.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dentricedev&count_private=true&show_icons=true&theme=nightowl" width="100%"/>
 </a> -->
 
-<a href="https://github.com/dentricedev/github-readme-stats">
+<!-- <a href="https://github.com/dentricedev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dentricedev&hide=css,html&theme=algolia" width="50%"/>
-</a>
+</a> -->
 
-<a href="https://github.com/maina-dennis/github-readme-stats">
+<!-- <a href="https://github.com/maina-dennis/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maina-dennis&theme=merko&repo=An-AI-Chatbot-in-Python-and-Flask" width="40%"/>
-</a>
+</a> -->
 
 
 <!-- Actual text -->
