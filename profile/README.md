@@ -1,8 +1,17 @@
 ![header](https://user-images.githubusercontent.com/50301571/140508612-7f716526-3515-4b93-8359-e76e4e35393b.png)
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-My name is Dennis Maina and I'm a software developer
-I'm from Nairobi, Kenya and I've freshly finished my undergraduate program.<br>
-Looking forward to an engaging and knowledgeful environment where I can drive change whilst fueling tech advancement.
+DentriceDev Solutions is a software and web development company located in Nairobi, Kenya. We've established a reputable foundation with a high-client satisfaction rate.
+# Other provided services inlude:
+<li>Web Development</li>
+<li>Application Development</li>
+<li>Search Engine Optimization</li>
+<li>Search Engine Marketing</li>
+<li>Digital Marketing</li>
+<li>CMS management</li>
+<li>Server Management and Maintenance</li>
+
+
+Looking forward to new adventures and creating awsome experiences.
 
 ## 🔧 Tools &amp; Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -17,8 +26,8 @@ Looking forward to an engaging and knowledgeful environment where I can drive ch
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats*
-<a href="https://github.com/maina-dennis/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maina-dennis&count_private=true&show_icons=true&theme=nightowl" width="100%"/>
+<a href="https://github.com/dentricedev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dentricedev&count_private=true&show_icons=true&theme=nightowl" width="100%"/>
 </a>
 
 <a href="https://github.com/maina-dennis/github-readme-stats">
@@ -40,6 +49,6 @@ Looking forward to an engaging and knowledgeful environment where I can drive ch
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
 <!-- Links to my social media accounts -->
-[1]: https://twitter.com/dennisjmaina
-[2]: https://www.linkedin.com/in/dennismaina/
+[1]: https://twitter.com/dentricedev
+[2]: https://www.linkedin.com/in/company/dentricedev
 [3]: https://instagram.com/denno.h_
