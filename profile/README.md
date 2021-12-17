@@ -26,12 +26,12 @@ Looking forward to new adventures and creating awsome experiences.
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats*
-<a href="https://github.com/dentricedev/github-readme-stats">
+<!-- <a href="https://github.com/dentricedev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dentricedev&count_private=true&show_icons=true&theme=nightowl" width="100%"/>
-</a>
+</a> -->
 
-<a href="https://github.com/maina-dennis/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-dennis&hide=css,html&theme=algolia" width="50%"/>
+<a href="https://github.com/dentricedev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dentricedev&hide=css,html&theme=algolia" width="50%"/>
 </a>
 
 <a href="https://github.com/maina-dennis/github-readme-stats">
