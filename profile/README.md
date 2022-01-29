@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/50301571/140508612-7f716526-3515-4b93-8359-e76e4e35393b.png)
+![header](https://user-images.githubusercontent.com/50301571/151650407-c6428717-043f-4242-a28f-af9c912266e5.png)
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 DentriceDev Solutions is a software and web development company located in Nairobi, Kenya. We've established a reputable foundation with a high-client satisfaction rate.
 # Other provided services inlude:
