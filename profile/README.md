@@ -40,7 +40,7 @@ Looking forward to new adventures and creating awsome experiences.
 
 
 <!-- Actual text -->
-## Find me on
+## Find Us on
 [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
